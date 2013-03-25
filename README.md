@@ -3,6 +3,8 @@ ACKeychain
 
 The easiest keychain wrapper for iOS.
 
+ACKeychain requires the Security.framework in order to compile.
+
 ACKeychain is a singleton and can be initalized easily.
  
 Option A:
